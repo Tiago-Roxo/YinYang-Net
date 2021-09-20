@@ -1,6 +1,6 @@
-# Faces in the Wild: Efficient Gender Recognition in Surveillance Conditions
+# YinYang-Net: Complementing Face and Body Information for Wild Gender Recognition
 
-This is an official Pytorch implementation of [Faces in the Wild: Efficient Gender Recognition in Surveillance Conditions](https://arxiv.org/abs/2107.06847). The code is released under the [Apache 2.0 license](LICENSE).
+This is an official Pytorch implementation of [YinYang-Net: Complementing Face and Body Information for Wild Gender Recognition](https://arxiv.org/abs/2107.06847). The code is released under the [Apache 2.0 license](LICENSE).
 
 ## Overall Architecture
 <img src=".imgs/main_image.png">
@@ -99,17 +99,10 @@ We provide the [checkpoints](https://drive.google.com/drive/folders/1IuZpF0giTVo
 If our work or code helped you in your research, please use the following BibTeX entries.
 
 ```BibTeX
-@article{roxo2021faces,
-  title={Faces in the Wild: Efficient Gender Recognition in Surveillance Conditions},
+@article{roxo2021yinyang_net,
+  title={YinYang-Net: Complementing Face and Body Information for Wild Gender Recognition},
   author={Roxo, Tiago and Proen{\c{c}}a, Hugo},
   journal={arXiv preprint arXiv:2107.06847},
-  year={2021}
-}
-
-@article{roxo2021gender,
-  title={Is Gender "In-the-Wild" Inference Really a Solved Problem?},
-  author={Roxo, Tiago and Proen{\c{c}}a, Hugo},
-  journal={arXiv preprint arXiv:2105.05794},
   year={2021}
 }
 ```
