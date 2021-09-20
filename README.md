@@ -5,7 +5,7 @@ This is an official Pytorch implementation of [YinYang-Net: Complementing Face a
 ## Overall Architecture
 <img src=".imgs/main_image.png">
 
-Cohesive perspective of the YY-Net, divided into three parts: *1) Model Architecture*; *2) Backbone*; and *3) Classifier*. The *Model Architecture* displays our processing flow, where the input data feeds two different backbones: 1) for the body; and 2) for facial information. The facial regions are obtained according our head detection approach, using pose information. The backbones derive from ResNet50, with classifier-related layers ignored, as shown in the *Backbone* portion. The combination of the face and body inputs is done through a classifier, which uses the proposed Face Attention Module to fuse both types of information effectively.
+Cohesive perspective of the YinYang-Net (YY-Net), divided into three parts: *1) Model Architecture*; *2) Backbone*; and *3) Classifier*. The *Model Architecture* displays our processing flow, where the input data feeds two different backbones: 1) for the body; and 2) for facial information. The facial regions are obtained according our head detection approach, using pose information. The backbones derive from ResNet50, with classifier-related layers ignored, as shown in the *Backbone* portion. The combination of the face and body inputs is done through a classifier, which uses the proposed Face Attention Module to fuse both types of information effectively.
 
 ---
 
