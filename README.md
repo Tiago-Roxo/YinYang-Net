@@ -99,11 +99,14 @@ We provide the [checkpoints](https://drive.google.com/drive/folders/1IuZpF0giTVo
 If our work or code helped you in your research, please use the following BibTeX entries.
 
 ```BibTeX
-@article{roxo2021yinyang_net,
-  title={YinYang-Net: Complementing Face and Body Information for Wild Gender Recognition},
+@article{roxo2022yinyang_net,
   author={Roxo, Tiago and Proen{\c{c}}a, Hugo},
-  journal={arXiv preprint arXiv:2107.06847},
-  year={2021}
-}
+  journal={IEEE Access}, 
+  title={YinYang-Net: Complementing Face and Body Information for Wild Gender Recognition}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={28122-28132},
+  doi={10.1109/ACCESS.2022.3157857}}
 ```
 
