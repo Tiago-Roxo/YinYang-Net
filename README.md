@@ -96,7 +96,7 @@ We provide the [checkpoints](https://drive.google.com/drive/folders/1IuZpF0giTVo
 ---
 
 ## Citing Paper
-If our work or code helped you in your research, please use the following BibTeX entries.
+If our work or code helped you in your research, please use the following BibTeX entry.
 
 ```BibTeX
 @article{roxo2022yinyang_net,
